@@ -5,7 +5,7 @@ namespace BigSchool.Models
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
-
+    //
     [Table("Course")]
     public partial class Course
     {
