@@ -77,7 +77,7 @@ namespace BigSchool.Models
         [Display(Name = "Phone Number")]
         public string PhoneNumber { get; set; }
     }
-    //
+    /
     public class ConfigureTwoFactorViewModel
     {
         public string SelectedProvider { get; set; }
